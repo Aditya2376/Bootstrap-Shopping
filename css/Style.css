@@ -1,0 +1,179 @@
+.main {
+    background-color:orange;
+    margin-top: 15px;
+}
+
+.colu2 .butn {
+    background-color: white;
+    width: 137px;
+    height: 30px;
+    padding-top: 0px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border-radius: 2px;
+    color: #000000c7;
+}
+.row .main_cart {
+    padding-left: 182px;
+}
+
+.row .colu1 {
+
+    padding-top: 7px;
+}
+.inp1 {
+    border: 0px;
+}
+
+.row .cloc {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.vl {
+    border-left: 1px solid black;
+    height: 3px;
+    top: 0;
+    margin:0px px 0px 6px;
+}
+.main2 {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 13px;
+}
+.full{
+    background-color:rgb(214 207 215 / 56%);
+}
+.Candy {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+}
+.container .row_box {
+    padding-top: 20px;
+}
+.input-group-append .search {
+    border: 0px;
+    background-color: white;
+}
+.input-group .search1 {
+    border: 0px;
+}
+.shop_bag {
+    color: orange;
+}
+.rupee {
+    padding-left: 45px;
+}
+.mid menu .nav_b {
+    border-bottom: 0px;
+    padding-left: 126px;
+}
+a.wish {
+    color: black;
+}
+.nav_bar1 a {
+    color: black;
+
+}
+.image img{
+    width: 100%;
+}
+.nav_bar1{
+    font-weight: 800;
+    font-size: 15px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.img_content .butn2{
+    background-color: orange;
+    border-radius: 50px;
+    width: 140px;
+    color: white;
+    font-weight: 500;
+}
+.img_content {
+    position: absolute;
+    top: 300px;
+    color: white;
+    text-align: center;
+}
+
+.mid_first p {
+    font-weight: 600;
+    font-style: italic;
+    color: #080808fa;
+    margin-top: 15px;
+}
+.mid_menu .nav_b .nav_2 a {
+    color: orange;
+}
+.mid_menu .nav_b {
+    border-bottom: 0px;
+}
+.nav_bar2 a {
+    color: black;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.mid {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.img_content h3 {
+    font-weight: 600;
+    font-size: 31px;
+}
+.smal1 {
+    font-weight: 700;
+    color: orange;
+}
+.content1 {
+    top: 106px;
+    right: 50px;
+    left: 50px;
+}
+.content1 p {
+    font-size: 17px;
+    font-weight: 600;
+}
+.imgc1 {
+    margin-top: 4px;
+}
+.imgc1 h3 {
+    font-size: 15px;
+    font-weight: 600;
+}
+.row .colu5 {
+    max-width: none;
+}
+.imgc1 .cart {
+    color: orange;
+    margin-right: 14px;
+}
+.imgc1 .cart2 {
+    margin-left: 23px;
+}
+.imgc1 .cart3 {
+    margin-left: 84px;
+}
+.row_cont1 {
+    margin-top: 15px;
+}
+.root {
+    margin-top: 50px;
+   
+}
+.colu2 .head3 {
+    font-size: 28px;
+    padding-top: 60px;
+}
+.colu6 img {
+    margin-left: 148px;
+    margin-top: 30px;
+}
+.bt2 {
+    margin-left: 159px;
+}
+.colu8 {
+    margin-top: 32px;
+}
